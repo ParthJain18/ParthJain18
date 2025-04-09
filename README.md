@@ -1,5 +1,15 @@
 <h2 align="left">Hi 👋! My name is Parth Jain and I'm a developer from Mumbai!</h2>
 
+I'm an Information Technology undergrad from Mumbai, passionate about building impactful software, especially in AI, ML, and healthcare. Check out my projects, and feel free to reach out!
+
+### 🏆 Achievements
+
+- 🥇 Winner - UNPLUGGED 2.0 Hackathon @ DJSCE  
+- 🤖 AIR 5 - E-Yantra Robotics Competition, IIT Bombay  
+- 🧠 Top 5 - Know Code Hackathon, KJSIT  
+
+---------
+
 ###
 
 <div align="center">
@@ -10,6 +20,7 @@
 
 ###
 
+<div>
 <img align="right" height="150" src="https://media-hosting.imagekit.io/73972ee27eed431b/screenshot_1744227037505.png?Expires=1838835038&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=sjDv2VBXqc7VqXiqxGgrjwHhsqxD5Z6WUshU97t4cUIhx7iKq7hOBR3lF--mITDSK-Ok15-2l84UpuPSq3z~7IDwBuCCbDMKLV2xaFMk3FaPiMLE~KITLuqVsIPPo9hMm9WvbdKbZiPeXZkUZZJIZ0gQyYS-cbmu-Z~EdIbggHiGQnqc1a-ojsDEyenMDi8brUneaIhmhPiBO84dW3P3R7ZqDE-vKJKzzA4tZL9yNWRfSCK~K02qCSJ3qPEztNhJpvVDSp5H5DKUq3ZxvvTwaKmp-30~MG4LligXkxaSESQztSf2yWdxZedkrnFbpwQbd~mW8UoSfydma8fi0V7NRw__"  />
 
 ###
@@ -79,6 +90,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" alt="sqlalchemy logo"  />
 </div>
+</div>
 
 ###
 
@@ -98,6 +110,10 @@
 </div>
 
 ###
+
+---------
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ParthJain18&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br clear="both">
 
