@@ -4,9 +4,9 @@ I'm an Information Technology undergrad from Mumbai, passionate about building i
 
 ### 🏆 Achievements
 
-- 🥇 Winner - UNPLUGGED 2.0 Hackathon @ DJSCE  
-- 🤖 AIR 5 - E-Yantra Robotics Competition, IIT Bombay  
-- 🧠 Top 5 - Know Code Hackathon, KJSIT  
+- 🥇 Winner - UNPLUGGED 2.0 Hackathon @ DJSCE - March 2025
+- 🤖 AIR 5 - E-Yantra Robotics Competition 2024, IIT Bombay - March 2024
+- 🧠 Top 5 - Know Code Hackathon, KJSIT - February 2024
 
 ---------
 
@@ -117,6 +117,14 @@ I'm an Information Technology undergrad from Mumbai, passionate about building i
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ParthJain18/ParthJain18/output/snake.svg" alt="Snake animation" />
+###
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ParthJain18/ParthJain18/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ParthJain18/ParthJain18/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ParthJain18/ParthJain18/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
 
 ###
