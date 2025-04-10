@@ -124,7 +124,7 @@ I'm an Information Technology undergrad from Mumbai, passionate about building i
 
 <br clear="both">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ParthJain18&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ParthJain18&theme=radical&margin-w=15)]()
 
 --------
 ###
