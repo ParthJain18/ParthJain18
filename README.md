@@ -2,6 +2,8 @@
 
 I'm an Information Technology undergrad from Mumbai, passionate about building impactful software, especially in AI, ML, and healthcare. Check out my projects, and feel free to reach out!
 
+<br clear="both">
+
 ### 🏆 Achievements
 
 - 🥇 Winner - UNPLUGGED 2.0 Hackathon @ DJSCE - March 2025
@@ -12,6 +14,8 @@ I'm an Information Technology undergrad from Mumbai, passionate about building i
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ParthJain18&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" height="150" alt="stats graph"  />
 <!--   <img src="https://streak-stats.demolab.com?user=ParthJain18&locale=en&mode=weekly&theme=react&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  /> -->
@@ -19,6 +23,8 @@ I'm an Information Technology undergrad from Mumbai, passionate about building i
 </div>
 
 ###
+
+<br clear="both">
 
 <div>
 <img align="right" height="150" src="https://media-hosting.imagekit.io/73972ee27eed431b/screenshot_1744227037505.png?Expires=1838835038&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=sjDv2VBXqc7VqXiqxGgrjwHhsqxD5Z6WUshU97t4cUIhx7iKq7hOBR3lF--mITDSK-Ok15-2l84UpuPSq3z~7IDwBuCCbDMKLV2xaFMk3FaPiMLE~KITLuqVsIPPo9hMm9WvbdKbZiPeXZkUZZJIZ0gQyYS-cbmu-Z~EdIbggHiGQnqc1a-ojsDEyenMDi8brUneaIhmhPiBO84dW3P3R7ZqDE-vKJKzzA4tZL9yNWRfSCK~K02qCSJ3qPEztNhJpvVDSp5H5DKUq3ZxvvTwaKmp-30~MG4LligXkxaSESQztSf2yWdxZedkrnFbpwQbd~mW8UoSfydma8fi0V7NRw__"  />
@@ -111,12 +117,16 @@ I'm an Information Technology undergrad from Mumbai, passionate about building i
 
 ###
 
----------
+<br clear="both">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ParthJain18&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---------
 
 <br clear="both">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ParthJain18&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+--------
 ###
 
 <div align="center">
