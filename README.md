@@ -6,9 +6,17 @@ I'm an Information Technology undergrad from Mumbai, passionate about building i
 
 ### 🏆 Achievements
 
-- 🥇 Winner - UNPLUGGED 2.0 Hackathon @ DJSCE - March 2025
-- 🤖 AIR 5 - E-Yantra Robotics Competition 2024, IIT Bombay - March 2024
-- 🧠 Top 5 - Know Code Hackathon, KJSIT - February 2024
+- 🥇 **Winner** – *UNPLUGGED 2.0 Hackathon*  
+  📍 *DJSCE* · 🗓️ March 2025
+
+- 📄 **Paper Presented** – *Compute 2024 by ACM India*  
+  🎓 *IIT Gandhinagar* · 🗓️ December 2024
+
+- 🤖 **AIR 5** – *E-Yantra Robotics Competition 2024*  
+  🏛️ *IIT Bombay* · 🗓️ March 2024
+
+- 🧠 **Top 5** – *Know Code Hackathon*  
+  🏫 *KJSIT* · 🗓️ February 2024
 
 ---------
 
