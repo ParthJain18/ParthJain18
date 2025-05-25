@@ -2,6 +2,7 @@
 
 I'm an Information Technology undergrad from Mumbai, passionate about building impactful software, especially in AI, ML, and healthcare. Check out my projects, and feel free to reach out!
 
+Also check out my portfolio at [parthjain.works](https://parthjain.works)!
 <br clear="both">
 
 ### 🏆 Achievements
