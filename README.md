@@ -26,8 +26,8 @@ Also check out my portfolio at [parthjain.tech](https://parthjain.tech)!
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParthJain18&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" style="height:150px; width:auto;" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ParthJain18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true" style="height:150px; width:auto;" alt="languages graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ParthJain18&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" style="height:150px; width:auto;" alt="stats graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=ParthJain18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true" style="height:150px; width:auto;" alt="languages graph" />
 </div>
 
 ###
@@ -35,7 +35,7 @@ Also check out my portfolio at [parthjain.tech](https://parthjain.tech)!
 <br clear="both">
 
 <div>
-  <img align="right" src="https://github.com/ParthJain18.png" style="height:150px; width:auto; border-radius: 50%;" alt="profile image" />
+  <img align="right" src="https://wsrv.nl/?url=github.com/ParthJain18.png&w=150&h=150&fit=cover&mask=circle" style="height:150px; width:auto;" alt="profile image" />
 </div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
